@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a software developer with a background in applied mathematics and computer science. With nearly four years of experience in the industry, I have worked on designing, developing, and optimizing technology solutions for various projects, adapting to different languages, frameworks, and architectures. I specialize in building efficient, scalable, and well-structured systems, always seeking the best technical solution for each use case.
+
+I have experience in backend, frontend, and infrastructure, including deployment automation and application performance optimization. I'm passionate about high-quality software development, solving complex problems, data science, artificial intelligence, open-source and continuously learning new technologies.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeGuzmanSierra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
